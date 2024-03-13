@@ -1,0 +1,828 @@
+Uri: https://blogzine.webestica.com/
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index.htm
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/404.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\404.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/about-us.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\about-us.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/images/adv-1.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\adv-1.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/adv-2.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\adv-2.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/adv-3.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\adv-3.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/adv-4.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\adv-4.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/adv.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\adv.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/app-store.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/07.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\07.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/09.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\09.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/10.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\10.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/11.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\11.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/12.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\12.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/13.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\13.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/14.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\14.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/15.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\15.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/avatar/big/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\avatar\big\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/bg.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\bg.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/07.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\07.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/09.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\09.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/big/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\big\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/big/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\big\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/big/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\big\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/big/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\big\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/big/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\big\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/small/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\small\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/small/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\small\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/small/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\small\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/16by9/small/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\16by9\small\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/09.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\09.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/10.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\10.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/13.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\13.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/thumb/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\thumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/thumb/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\thumb\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/thumb/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\thumb\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/thumb/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\thumb\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/1by1/thumb/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\1by1\thumb\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by2/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by2\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by2/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by2\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by2/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by2\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by2/12.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by2\12.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/07.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\07.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/09.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\09.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/3by4/10.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\3by4\10.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/07.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\07.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/09.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\09.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/10.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\10.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/11.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\11.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/12.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\12.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/13.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\13.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/14.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\14.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/15.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\15.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/17.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\17.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/18.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\18.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/19.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\19.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/20.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\20.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/22.gif
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\22.gif
+Content Type: image/gif
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/22.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\22.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/23.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\23.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/30.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\30.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/34.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\34.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/01.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/02.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\02.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/03.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\03.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/04.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\04.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/05.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\05.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/06.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\06.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/07.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\07.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/blog/4by3/thumb/08.jpg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\blog\4by3\thumb\08.jpg
+Content Type: image/jpeg
+
+Uri: https://blogzine.webestica.com/assets/images/cookie.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\cookie.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://blogzine.webestica.com/assets/images/google-play.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\google-play.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo-2-light.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo-2-light.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo-2.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo-footer.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo-icon.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo-light.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/logo.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/images/videos/audio.mp3
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\videos\audio.mp3
+Content Type: audio/mpeg
+
+Uri: https://blogzine.webestica.com/assets/images/vintage-pattern.png
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\images\vintage-pattern.png
+Content Type: image/png
+
+Uri: https://blogzine.webestica.com/assets/js/functions.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://blogzine.webestica.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://blogzine.webestica.com/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://blogzine.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://blogzine.webestica.com/assets/vendor/glightbox/css/glightbox.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\glightbox\css\glightbox.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/vendor/glightbox/js/glightbox.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\glightbox\js\glightbox.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/imagesLoaded/imagesloaded.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\imagesLoaded\imagesloaded.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\isotope\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/jarallax/jarallax-video.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\jarallax\jarallax-video.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/jarallax/jarallax.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\jarallax\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/plyr/plyr.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\plyr\plyr.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/vendor/plyr/plyr.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\plyr\plyr.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/sticky-js/sticky.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\sticky-js\sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/tiny-slider/tiny-slider.css
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\tiny-slider\tiny-slider.css
+Content Type: text/css
+
+Uri: https://blogzine.webestica.com/assets/vendor/tiny-slider/tiny-slider.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\tiny-slider\tiny-slider.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/assets/vendor/vanilla-lazyload/lazyload.min.js
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\assets\vendor\vanilla-lazyload\lazyload.min.js
+Content Type: application/x-javascript
+
+Uri: https://blogzine.webestica.com/author.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\author.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/categories-2.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\categories-2.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/categories.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\categories.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/checkout.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\checkout.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/contact-us.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\contact-us.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/dashboard.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\dashboard.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/docs/index.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\docs\index.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/docs/lazy-load.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\docs\lazy-load.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/empty-cart.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\empty-cart.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-10.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-10.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-11.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-11.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-2.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-2.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-3.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-3.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-4.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-4.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-5.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-5.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-6.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-6.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-7.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-7.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-8.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-8.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-9.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-9.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index-lazy.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index-lazy.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/index.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\index.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/my-cart.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\my-cart.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/offline.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\offline.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/pagination-styles.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\pagination-styles.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/podcast-single.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\podcast-single.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-cards.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-cards.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-grid-4-col.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-grid-4-col.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-grid-masonry-filter.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-grid-masonry-filter.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-grid-masonry.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-grid-masonry.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-grid.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-grid.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-large-and-grid.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-large-and-grid.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-list-2.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-list-2.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-list.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-list.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-overlay.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-overlay.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single-2.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single-2.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single-3.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single-3.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single-4.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single-4.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single-5.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single-5.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single-6.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single-6.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-single.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-single.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/post-types.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\post-types.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/rtl/
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\rtl\index.htm
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/search-result.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\search-result.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/shop-detail.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\shop-detail.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/shop-grid.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\shop-grid.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/signin.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\signin.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/signup.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\signup.html
+Content Type: text/html
+
+Uri: https://blogzine.webestica.com/tag.html
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\tag.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Rubik:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XZ4W34ZJ0L
+File Name: C:\Downloaded Web Sites\blogzine.webestica.com\gtag\js
+Content Type: application/javascript
+
