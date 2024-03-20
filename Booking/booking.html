@@ -17,10 +17,10 @@
 	<!--     Fonts and icons     -->
 	<link rel="stylesheet" type="text/css"
 		href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
-	 <!-- Font Awesome Icons -->
-	 <script src="../assets/js/fontawesome.js" crossorigin="anonymous"></script>
-	 <!-- Material Icons -->
-	 <link href="../assets/css/Material+Icons+Round.css" rel="stylesheet">
+	<!-- Font Awesome Icons -->
+	<script src="../assets/js/fontawesome.js" crossorigin="anonymous"></script>
+	<!-- Material Icons -->
+	<link href="../assets/css/Material+Icons+Round.css" rel="stylesheet">
 
 	<!-- CSS Files -->
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -31,8 +31,9 @@
 </head>
 
 <body>
-	<div class="image-container set-full-height" style="background-image: url('../assets/img/photo-1601848714157-d845bb5c11ff.avif')">
-       
+	<div class="image-container set-full-height"
+		style="background-image: url('../assets/img/photo-1601848714157-d845bb5c11ff.avif')">
+
 		<!--   Big container   -->
 		<div class="container">
 			<div class="row">
@@ -41,7 +42,6 @@
 					<div class="wizard-container">
 						<div class="card wizard-card blur" data-color="orange" id="wizardProfile">
 							<form action="" method="">
-								<!--        You can switch " data-color="purple" "  with one of the next bright colors: "green", "orange", "red", "blue"       -->
 
 								<div class="wizard-header">
 									<h3 class="wizard-title">
@@ -60,12 +60,13 @@
 								<div class="tab-content">
 									<div class="tab-pane" id="about">
 										<div class="row">
-											<h4 class="info-text"> Rellena los datos a continuación para solicitar un turno</h4>
+											<h4 class="info-text"> Rellena los datos a continuación para solicitar un
+												turno</h4>
 											<div class="col-sm-4 col-sm-offset-1">
 												<div class="picture-container">
 													<div class="picture">
-														<img src="assets/img/raven-tribal-tattoo-logo-icon-design-vector.jpg" class="picture-src"
-															id="wizardPicturePreview" title="" />
+														<img src="assets/img/raven-tribal-tattoo-logo-icon-design-vector.jpg"
+															class="picture-src" id="wizardPicturePreview" title="" />
 														<input type="file" id="wizard-picture">
 													</div>
 													<h6>Seleccionar tatuaje</h6>
@@ -100,43 +101,44 @@
 														<i class="material-icons">call</i>
 													</span>
 													<div class="form-group label-floating">
-			                                            <label class="control-label">Teléfono <small>(Obligatorio)</small></label>
-			                                            <input name="telefono" type="tel" class="form-control">
-			                                        </div>
+														<label class="control-label">Teléfono
+															<small>(Obligatorio)</small></label>
+														<input name="telefono" type="tel" class="form-control">
+													</div>
 												</div>
-		                                	</div>
+											</div>
 										</div>
 									</div>
 									<div class="tab-pane" id="account">
 										<h4 class="info-text"> Elige en que lugar deseas tatuarte</h4>
 										<div class="row">
 											<div class="col-sm-10 col-sm-offset-1">
-												<div class="col-sm-4">
+												<div class="col-sm-4 col-4">
 													<div class="choice" data-toggle="wizard-radio" rel="tooltip"
-														title="This is good if you travel alone.">
-														<input type="radio" name="job" value="Design">
+														title="Disponible algunos días de la semana">
+														<input type="radio" name="estudio" value="Cienfuegos">
 														<div class="icon">
 															<i class="material-icons">location_city</i>
 														</div>
 														<h6>Cienfuegos</h6>
 													</div>
 												</div>
-												<div class="col-sm-4">
+												<div class="col-sm-4 col-4">
 													<div class="choice" data-toggle="wizard-radio" rel="tooltip"
-														title="Select this room if you're traveling with your family.">
-														<input type="radio" name="job" value="Code">
+														title="Disponible cualquier día de la semana">
+														<input type="radio" name="estudio" value="Cumanayagua">
 														<div class="icon">
 															<i class="material-icons">apartment</i>
 														</div>
 														<h6>Cumanayagua</h6>
 													</div>
 												</div>
-												<div class="col-sm-4">
+												<div class="col-sm-4 col-4">
 													<div class="choice" data-toggle="wizard-radio" rel="tooltip"
-														title="Select this option if you are coming with your team.">
-														<input type="radio" name="job" value="Code">
+														title="Disponible una o dos días a la semana">
+														<input type="radio" name="estudio" value="Code">
 														<div class="icon">
-															<i class="material-icons">home</i>
+															<i class="material-icons">Barajagua</i>
 														</div>
 														<h6>Barajagua</h6>
 													</div>
@@ -146,42 +148,83 @@
 									</div>
 									<div class="tab-pane" id="address">
 										<div class="row">
-											<div class="col-sm-12">
-												<h4 class="info-text"> Are you living in a nice area? </h4>
-											</div>
-											<div class="col-sm-7 col-sm-offset-1">
-												<div class="form-group label-floating">
-													<label class="control-label">Street Name</label>
-													<input type="text" class="form-control">
-												</div>
-											</div>
-											<div class="col-sm-3">
-												<div class="form-group label-floating">
-													<label class="control-label">Street Number</label>
-													<input type="text" class="form-control">
-												</div>
-											</div>
 											<div class="col-sm-5 col-sm-offset-1">
-												<div class="form-group label-floating">
-													<label class="control-label">City</label>
-													<input type="text" class="form-control">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">front_hand</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Selecciona tu color de piel</label>
+														<select class="form-control">
+															<option disabled="" selected=""></option>
+															<option>Piel muy blanca</option>
+															<option>Piel morena clara</option>
+															<option>Piel mestiza</option>
+															<option>Piel oscura</option>
+														</select>
+													</div>
 												</div>
 											</div>
 											<div class="col-sm-5">
-												<div class="form-group label-floating">
-													<label class="control-label">Country</label>
-													<select name="country" class="form-control">
-														<option disabled="" selected=""></option>
-														<option value="Afghanistan"> Afghanistan </option>
-														<option value="Albania"> Albania </option>
-														<option value="Algeria"> Algeria </option>
-														<option value="American Samoa"> American Samoa </option>
-														<option value="Andorra"> Andorra </option>
-														<option value="Angola"> Angola </option>
-														<option value="Anguilla"> Anguilla </option>
-														<option value="Antarctica"> Antarctica </option>
-														<option value="...">...</option>
-													</select>
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">pending_actions</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">¿Tienes agenda abierta?</label>
+														<select class="form-control">
+															<option disabled="" selected=""></option>
+															<option>Si, estoy dispinible cualquier día</option>
+															<option>No, solo días específicos </option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-5 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">accessibility_new</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Lugar del cuerpo que desea
+															tatuar</label>
+														<select class="form-control">
+															<option disabled="" selected=""></option>
+															<option>Yes</option>
+															<option>No </option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-5">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">square_foot</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Tamaño del tatuaje en
+															centímetros</label>
+														<select class="form-control">
+															<option disabled="" selected=""></option>
+															<option>Nombre ~ 5cm / 700 CUP, si son 2 en 500</option>
+															<option>Tatuaje cencillo menor de 6cm / 700 CUP</option>
+															<option>Mediano entre 6cm - 12cm / 1000 a 1500</option>
+															<option>Grande entre 12cm - 16cm / 1500 a 2500 </option>
+															<option>+Grande entre 16cm - 24cm / 2500 a 4000 </option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-10 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">co_present</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Código de invitación
+															<small>(Opcional)</small></label>
+														<input name="telefono" type="text" class="form-control">
+													</div>
 												</div>
 											</div>
 										</div>
@@ -215,7 +258,29 @@
 			</div>
 		</div>
 	</div>
+	<script type="module">
+		// Import the functions you need from the SDKs you need
+		import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+		import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics.js";
+		// TODO: Add SDKs for Firebase products that you want to use
+		// https://firebase.google.com/docs/web/setup#available-libraries
 
+		// Your web app's Firebase configuration
+		// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+		const firebaseConfig = {
+			apiKey: "AIzaSyByVCifTuZ2-1_UiTUZgzZ3iX2FgKOf4as",
+			authDomain: "artvier-tattoo-website.firebaseapp.com",
+			projectId: "artvier-tattoo-website",
+			storageBucket: "artvier-tattoo-website.appspot.com",
+			messagingSenderId: "1085529257712",
+			appId: "1:1085529257712:web:ecd1b0d336299dc94af435",
+			measurementId: "G-WD40X7HQYP"
+		};
+
+		// Initialize Firebase
+		const app = initializeApp(firebaseConfig);
+		const analytics = getAnalytics(app);
+	</script>
 </body>
 <!--   Core JS Files   -->
 <script src="assets/js/jquery-2.2.4.min.js" type="text/javascript"></script>
