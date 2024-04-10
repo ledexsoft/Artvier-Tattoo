@@ -14,6 +14,7 @@ import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
             const tamaño = formData.get('tamaño');
             const disponibilidad = formData.get('disponibilidad');
             const zona = formData.get('zona');
+            const invitación = formData.get('CodigoInvitacion');
             const imageUrl = uploadedImageUrl;
 
             // Envía los datos a Supabase
@@ -29,10 +30,15 @@ import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
                         tamaño: tamaño,
                         zona: zona,
                         disponibilidad: disponibilidad,
+                        invitación: invitación,
                     },
                 ]);
 
             // Maneja los errores
             if (error) console.error('Error al insertar datos:', error);
-            else alert('Datos insertados con éxito:', data);
+            else Swal.fire({
+                title: "Se ha enviado tu solicitud!",
+                text: "Pronto serás contactado para confirmar la cita",
+                icon: "success"
+              });;
         });
