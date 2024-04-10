@@ -256,7 +256,7 @@
 										<button type='button' class='btn btn-finish btn-fill btn-warning btn-wd'
 											name='finish' id="finish" type="submit">Enviar alerta</button>
 									</div>
-
+									
 									<div class="pull-left">
 										<input type='button' class='btn btn-previous btn-fill btn-default btn-wd'
 											name='previous' value='Regresar' />
@@ -278,7 +278,7 @@
 		</div>
 	</div>
 
-	<script type="module" src="supabase.js"></script>
+	
 	<!-- SCRIPTS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
 	<script src="cloudinary.js"></script>
@@ -293,5 +293,11 @@
 
 <!--  More information about jquery.validate here: http://jqueryvalidation.org/	 -->
 <script src="assets/js/jquery.validate.min.js"></script>
+<script>
+	$("#ReservarCitaFormulario").validate({
+		debug: true
+	});
 
+</script>
+<script type="module" src="supabase.js"></script>
 </html>

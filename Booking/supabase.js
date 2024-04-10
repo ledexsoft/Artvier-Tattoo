@@ -3,9 +3,10 @@ import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
         const supabase = createClient('https://gtewqedyzmyneudamaoc.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd0ZXdxZWR5em15bmV1ZGFtYW9jIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxMTg0MDIzNCwiZXhwIjoyMDI3NDE2MjM0fQ.73G9ftJfKNBzBaepT2DWlRCa11usXXbyZD-ZSFT24HM');
 
         // Luego, captura el evento de envío del formulario
-        document.getElementById('ReservarCitaFormulario').addEventListener('submit', async (e) => {
+        document.getElementById('finish').addEventListener('click', async (e) => {
             e.preventDefault();
-            const formData = new FormData(e.target);
+            const form = document.getElementById('ReservarCitaFormulario');
+            const formData = new FormData(form);
             const nombre = formData.get('nombre');
             const apellidos = formData.get('apellidos');
             const telefono = formData.get('telefono');
