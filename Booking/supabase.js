@@ -38,7 +38,7 @@ import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
             if (error) console.error('Error al insertar datos:', error);
             else Swal.fire({
                 title: "Se ha enviado tu solicitud!",
-                text: "Pronto serás contactado para confirmar la cita",
+                text: "Pronto serás contactado por WhatsApp para confirmar la cita desde el # +53 56093974",
                 icon: "success"
               });;
         });
