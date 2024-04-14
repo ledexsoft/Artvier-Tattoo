@@ -2,7 +2,7 @@
 const CACHE_NAME='v1_cache_artvier_tattoo',
 urlsToCache= [
     '/',
-    'index',
+    'index.html',
     'assets/css/material-kit-pro.min.css?v=3.0.4',
     'assets/css/Material+Icons+Round.css',
     'assets/js/fontawesome.js',
