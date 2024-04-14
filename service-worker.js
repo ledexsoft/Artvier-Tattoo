@@ -1,7 +1,13 @@
 //asignar un nombre y versión al caché
 const CACHE_NAME='v1_cache_artvier_tattoo',
 urlsToCache= [
-    './',
+    '/',
+    'index',
+    'assets/css/material-kit-pro.min.css?v=3.0.4',
+    'assets/css/Material+Icons+Round.css',
+    'assets/js/fontawesome.js',
+    'assets/js/material-kit-pro.min.js?v=3.0.4',
+    "assets/js/core/bootstrap.min.js"
 ]
 
 // Instalación del service worker

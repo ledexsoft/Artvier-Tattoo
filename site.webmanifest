@@ -18,5 +18,5 @@
     "display": "standalone",
     "orientation":"portrait",
     "description": "Resera citas en linea en Artvier Tattoo, Estudio de tatuajes en Cienfuegos",
-    "start_url": "/"
+    "start_url": "index.html"
 }
