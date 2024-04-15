@@ -7,7 +7,9 @@ urlsToCache= [
     'assets/css/Material+Icons+Round.css',
     'assets/js/fontawesome.js',
     'assets/js/material-kit-pro.min.js?v=3.0.4',
-    "assets/js/core/bootstrap.min.js"
+    'assets/js/core/bootstrap.min.js',
+    'pages/error-404.html',
+    'pages/sobre_mi.html'
 ]
 
 // Instalación del service worker
