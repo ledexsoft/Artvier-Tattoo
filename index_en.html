@@ -91,28 +91,21 @@
   </script>
   <!-- Idioma de la pág -->
    <script>
-   document.addEventListener("DOMContentLoaded", function() {
-    var userLang = navigator.language || navigator.userLanguage; // Obtiene el idioma del navegador del usuario
-    var savedLang = localStorage.getItem('preferredLanguage'); // Obtiene el idioma preferido del usuario del almacenamiento local
-    var currentPage = window.location.pathname; // Obtiene la ruta de la página actual
+    var idioma = navigator.language || navigator.userLanguage;
+    var idiomaActual = document.documentElement.lang;
 
-    if (!savedLang) { // Si no hay un idioma preferido guardado
-        if (userLang.startsWith("en")) { // Si el idioma del usuario es inglés
-            localStorage.setItem('preferredLanguage', 'en'); // Guarda 'en' como el idioma preferido
-        } else { // Si el idioma del usuario no es inglés
-            localStorage.setItem('preferredLanguage', 'es'); // Guarda 'es' como el idioma preferido
-        }
+    if (idioma != idiomaActual) {
+      switch (idioma) {
+        case "en":
+          window.location.href = "index_en.html";
+          break;
+        case "fr":
+          window.location.href = "index_fr.html";
+          break;
+        default:
+          window.location.href = "index_en.html";
+      }
     }
-
-    savedLang = localStorage.getItem('preferredLanguage'); // Actualiza el idioma preferido
-
-    if (savedLang === 'en' && currentPage !== "/index_en.html") { // Si el idioma preferido es inglés y la página actual no es la versión en inglés
-        window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
-    } else if (savedLang === 'es' && currentPage !== "/index.html") { // Si el idioma preferido es español y la página actual no es la versión en español
-        window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
-    }
-});
-
 
 
 </script>
