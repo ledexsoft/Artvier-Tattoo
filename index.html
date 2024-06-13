@@ -99,23 +99,20 @@
     if (!savedLang) { // Si no hay un idioma preferido guardado
         if (userLang.startsWith("en")) { // Si el idioma del usuario es inglés
             localStorage.setItem('preferredLanguage', 'en'); // Guarda 'en' como el idioma preferido
-            if (currentPage !== "/index_en.html") { // Si la página actual no es la versión en inglés
-                window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
-            }
         } else { // Si el idioma del usuario no es inglés
             localStorage.setItem('preferredLanguage', 'es'); // Guarda 'es' como el idioma preferido
-            if (currentPage !== "/index.html") { // Si la página actual no es la versión en español
-                window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
-            }
-        }
-    } else { // Si hay un idioma preferido guardado
-        if (savedLang === 'en' && currentPage !== "/index_en.html") { // Si el idioma preferido es inglés y la página actual no es la versión en inglés
-            window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
-        } else if (savedLang === 'es' && currentPage !== "/index.html") { // Si el idioma preferido es español y la página actual no es la versión en español
-            window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
         }
     }
+
+    savedLang = localStorage.getItem('preferredLanguage'); // Actualiza el idioma preferido
+
+    if (savedLang === 'en' && currentPage !== "/index_en.html") { // Si el idioma preferido es inglés y la página actual no es la versión en inglés
+        window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
+    } else if (savedLang === 'es' && currentPage !== "/index.html") { // Si el idioma preferido es español y la página actual no es la versión en español
+        window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
+    }
 });
+
 
 
 </script>
