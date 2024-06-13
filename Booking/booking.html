@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon.ico">
+
+	<title>Reservar cita</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+	<meta name="viewport" content="width=device-width" />
+
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png" />
+	<link rel="icon" type="image/png" href="assets/img/favicon.png" />
+
+	<!--     Fonts and icons     -->
+	<link rel="stylesheet" type="text/css"
+		href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+	<!-- Font Awesome Icons -->
+	<script src="../assets/js/fontawesome.js" crossorigin="anonymous"></script>
+	<!-- Material Icons -->
+	<link href="../assets/css/Material+Icons+Round.css" rel="stylesheet">
+
+	<!-- CSS Files -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="assets/css/material-bootstrap-wizard.css" rel="stylesheet" />
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link href="assets/css/demo.css" rel="stylesheet" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-SNCW867P0G"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-SNCW867P0G');
+	</script>
+</head>
+
+<body>
+	<div class="image-container set-full-height"
+		style="background-image: url('./assets/img/079e3faf6e482150878d4c6f27a38183.jpg')">
+
+		<!--   Big container   -->
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2">
+					<!--      Wizard container        -->
+					<div class="wizard-container">
+						<div class="card wizard-card blur" data-color="orange" id="wizardProfile">
+							<form id="ReservarCitaFormulario" action="" method="">
+
+								<div class="wizard-header">
+									<h3 class="wizard-title">
+										¿Listo para reservar tu cita?
+									</h3>
+									<h5>Gracias por elegir Artvier Tattoo Studio</h5>
+								</div>
+								<div class="wizard-navigation">
+									<ul>
+										<li><a href="#about" data-toggle="tab">Información básica</a></li>
+										<li><a href="#account" data-toggle="tab">Seleccionar estudio</a></li>
+										<li><a href="#address" data-toggle="tab">Confirmación de la cita</a></li>
+									</ul>
+								</div>
+
+								<div class="tab-content">
+									<div class="tab-pane" id="about">
+										<div class="row">
+											<h4 class="info-text"> Rellena los datos a continuación para solicitar un
+												turno</h4>
+											<div class="col-sm-4 col-sm-offset-1">
+												<div class="picture-container">
+													<div class="picture">
+														<img src="assets/img/raven-tribal-tattoo-logo-icon-design-vector.jpg"
+															class="picture-src" id="wizardPicturePreview" title="" />
+														<input type="file" id="wizard-picture" accept="image/*">
+														<progress id="img-upload-bar" value="0" max="100"
+															style="width: 100%" class="progress-bar"></progress>
+													</div>
+													<h6>Seleccionar tatuaje</h6>
+												</div>
+											</div>
+											<div class="col-sm-6">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">face</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Nombre
+															<small>(Obligatorio)</small></label>
+														<input id="nombre" name="nombre" type="text"
+															class="form-control" required>
+													</div>
+												</div>
+
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">badge</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Apellidos
+															<small>(Obligatorio)</small></label>
+														<input type="text" class="form-control" id="apellidos"
+															name="apellidos" required>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-10 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">call</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Teléfono
+															<small>(Obligatorio)</small></label>
+														<input type="tel" class="form-control" id="telefono"
+															name="telefono" required>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-pane" id="account">
+										<h4 class="info-text">¿En qué lugar le gustaría tatuarse? </h4>
+										<div class="row">
+											<div class="col-sm-10 col-sm-offset-1" id="estudio" required>
+												<input type="hidden" name="estudio" id="estudioInput">
+												<div class="col-sm-4 col-sm-offset-2">
+													<div class="choice" data-toggle="wizard-radio" rel="tooltip"
+														title="Disponible algunos días de la semana">
+														<input type="radio" name="type" value="House">
+														<div class="icon">
+															<i class="material-icons">apartment</i>
+														</div>
+														<h6>Cumanayagua</h6>
+													</div>
+												</div>
+												<div class="col-sm-4">
+													<div class="choice" data-toggle="wizard-radio" rel="tooltip"
+														title="Disponible cualquier día de la semana">
+														<input type="radio" name="type" value="Appartment">
+														<div class="icon">
+															<i class="material-icons">location_city</i>
+														</div>
+														<h6>Cienfuegos</h6>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-pane" id="address">
+										<div class="row">
+											<div class="col-sm-5 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">front_hand</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Selecciona tu color de piel</label>
+														<select class="form-control" name="ColorPiel" required>
+															<option disabled="" selected=""></option>
+															<option>Piel muy blanca</option>
+															<option>Piel morena clara</option>
+															<option>Piel mestiza</option>
+															<option>Piel oscura</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-5">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">pending_actions</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">¿Tienes agenda abierta?</label>
+														<select class="form-control" name="AgendaAbierta" required>
+															<option disabled="" selected=""></option>
+															<option>Si, estoy dispinible cualquier día</option>
+															<option>No, solo días específicos </option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-5 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">accessibility_new</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Lugar del cuerpo que desea
+															tatuar</label>
+														<select class="form-control" id="zona" name="zona" required>
+															<option disabled="" selected=""></option>
+															<option>Cabeza</option>
+															<option>Cuello</option>
+															<option>Hombros</option>
+															<option>Brazo</option>
+															<option>Antebrazo</option>
+															<option>Manos</option>
+															<option>Pecho</option>
+															<option>Espalda</option>
+															<option>Costillas</option>
+															<option>Aldomen</option>
+															<option>Pelvis</option>
+															<option>Gluteos</option>
+															<option>Muslo</option>
+															<option>Pantorrilla</option>
+															<option>Fémur</option>
+															<option>Pies</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-5">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">square_foot</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Tamaño del tatuaje en
+															centímetros</label>
+														<select class="form-control" id="tamaño" name="tamaño" required>
+															<option disabled="" selected=""></option>
+															<option>Nombre ~ 5cm / 700 CUP, si son 2 en 500</option>
+															<option>Tatuaje cencillo menor de 6cm / 700 CUP</option>
+															<option>Mediano entre 6cm - 12cm / 1000 a 1500</option>
+															<option>Grande entre 12cm - 16cm / 1500 a 2500 </option>
+															<option>+Grande entre 16cm - 24cm / 2500 a 4000 </option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-10 col-sm-offset-1">
+												<div class="input-group">
+													<span class="input-group-addon">
+														<i class="material-icons">co_present</i>
+													</span>
+													<div class="form-group label-floating">
+														<label class="control-label">Código de invitación
+															<small>(Opcional solo si es que lo tienes)</small></label>
+														<input name="CodigoInvitacion" type="text" class="form-control">
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="wizard-footer">
+									<div class="pull-right">
+										<input type='button' class='btn btn-next btn-fill btn-warning btn-wd'
+											name='next' value='Continuar' />
+										<button type='button' class='btn btn-finish btn-fill btn-warning btn-wd'
+											name='finish' id="finish" type="submit">Solicitar turno</button>
+									</div>
+
+									<div class="pull-left">
+										<input type='button' class='btn btn-previous btn-fill btn-default btn-wd'
+											name='previous' value='Regresar' />
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</form>
+						</div>
+					</div> <!-- wizard container -->
+				</div>
+			</div><!-- end row -->
+		</div> <!--  big container -->
+
+		<div class="footer">
+			<div class="container text-center">
+				Gracias por elegir <i class="fa fa-heart heart"></i> a <a href="../index.html">Artvier Tattoo</a>.
+				Descargar App <a href="https://artvier-tattoo.flutterflow.app/home">Aquí.</a>
+			</div>
+		</div>
+	</div>
+
+
+
+</body>
+<!--   Core JS Files   -->
+
+<script src="assets/js/jquery-2.2.4.min.js" type="text/javascript"></script>
+<script src="assets/js/jquery.bootstrap.js" type="text/javascript"></script>
+
+
+<!--  More information about jquery.validate here: http://jqueryvalidation.org/	 -->
+<script src="assets/js/jquery.validate.min.js"></script>
+<!--  Plugin for the Wizard -->
+<script src="assets/js/material-bootstrap-wizard.js"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<!-- SCRIPTS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+<script src="cloudinary.js"></script>
+<script src="../assets/js/plugins/sweetalert.min.js"></script>
+<script type="module" src="supabase.js"></script>
+
+</html>
