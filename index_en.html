@@ -91,18 +91,22 @@
   </script>
   <!-- Idioma de la pág -->
    <script>
-    document.addEventListener("DOMContentLoaded", function() {
+   document.addEventListener("DOMContentLoaded", function() {
     var userLang = navigator.language || navigator.userLanguage; // Obtiene el idioma del navegador del usuario
     var savedLang = localStorage.getItem('preferredLanguage'); // Obtiene el idioma preferido del usuario del almacenamiento local
     var currentPage = window.location.pathname; // Obtiene la ruta de la página actual
 
     if (!savedLang) { // Si no hay un idioma preferido guardado
-        if (userLang.startsWith("en") && currentPage !== "/index_en.html") { // Si el idioma del usuario es inglés y la página actual no es la versión en inglés
+        if (userLang.startsWith("en")) { // Si el idioma del usuario es inglés
             localStorage.setItem('preferredLanguage', 'en'); // Guarda 'en' como el idioma preferido
-            window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
-        } else if (!userLang.startsWith("en") && currentPage !== "/index.html") { // Si el idioma del usuario no es inglés y la página actual no es la versión en español
+            if (currentPage !== "/index_en.html") { // Si la página actual no es la versión en inglés
+                window.location.href = "index_en.html"; // Redirige al usuario a la versión en inglés de la página
+            }
+        } else { // Si el idioma del usuario no es inglés
             localStorage.setItem('preferredLanguage', 'es'); // Guarda 'es' como el idioma preferido
-            window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
+            if (currentPage !== "/index.html") { // Si la página actual no es la versión en español
+                window.location.href = "index.html"; // Redirige al usuario a la versión en español de la página
+            }
         }
     } else { // Si hay un idioma preferido guardado
         if (savedLang === 'en' && currentPage !== "/index_en.html") { // Si el idioma preferido es inglés y la página actual no es la versión en inglés
@@ -112,6 +116,7 @@
         }
     }
 });
+
 
 </script>
 </head>
